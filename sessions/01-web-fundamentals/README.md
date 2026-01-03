@@ -17,3 +17,11 @@
 - [GitHub](https://github.com/) For hosting code repositories
 - [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) These allow students to turn their code into a live URL for free.
 - [CodePen](https://codepen.io/) Great for quick "scratchpad" coding during class exercises without creating full files.
+
+## Resources
+### Textbook:
+- HTML and CSS: Design and Build Websites by Jon Duckett | Published By: John Wiley & Sons, Inc. | ISBN # 978-1118008188
+- Eloquent JavaScript by Marijn Haverbeke | Published By: No Starch Press | ISBN # 978-1718504103
+### Online Resources:
+- [MDN Web Docs (Mozilla)](https://developer.mozilla.org/): The gold standard for web documentation. If they have a question about a specific HTML tag or CSS property, this is the first place they should look.
+- [JavaScript.info](https://javascript.info/): Arguably the best structured, plain-English explanation of JavaScript from "Hello World" to complex asynchronous patterns.
