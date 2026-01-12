@@ -25,3 +25,5 @@
 ### Online Resources:
 - [MDN Web Docs (Mozilla)](https://developer.mozilla.org/): The gold standard for web documentation. If they have a question about a specific HTML tag or CSS property, this is the first place they should look.
 - [JavaScript.info](https://javascript.info/): Arguably the best structured, plain-English explanation of JavaScript from "Hello World" to complex asynchronous patterns.
+### Additional Reading:
+- https://dev.to/mollynem/git-github--workflow-fundamentals-5496
