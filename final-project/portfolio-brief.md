@@ -21,12 +21,6 @@ Your project must include:
      - Documentation: A README.md file explaining the project, technologies used, and how to run it locally.
      - Live Hosting: Successful deployment to Vercel with a custom (or Vercel-provided) live URL.
 
-## 3. . Vercel Deployment Steps
-One of our core goals is "shipping" your code. Follow these steps in Session 7:
-
-    1. Prepare: Ensure your main entry point is named index.html at the root of your project.
-    2. Push: Commit and push all final changes to your GitHub repository.
-    3. Connect: Log into Vercel using your GitHub account.
-    4. Import: Click "Add New Project" and select your portfolio repository.
-    5. Deploy: Click "Deploy." Vercel will provide a URL (e.g., my-portfolio.vercel.app).
-    6. Continuous Integration: Make a small change to your CSS, push to GitHub, and watch Vercel automatically update your live site.
+## 3. Deployment Steps
+One of our core goals is "shipping" your code. Choose any of these one options to deploy your code.
+See [Deployment Steps](https://github.com/magnetikworks/web-development-foundations/blob/main/faq/DEPLOYMENT_STEPS.md)
