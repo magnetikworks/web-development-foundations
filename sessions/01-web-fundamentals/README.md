@@ -1,4 +1,4 @@
-# 01 Web Fundamentals and Setup
+# Web Fundamentals and Setup
 
 ## Development Tools:
 - [Visual Studio Code](https://code.visualstudio.com/) The industry standard IDE for web development. It's lightweight and has the best ecosystem for web foundations.
