@@ -12,3 +12,6 @@ Break (10 Minutes)
 
 ## Part 3: The Inclusive Web (40 Minutes)
 Topic: Alt-Text, ARIA, and Accessibility Basics
+
+## Further Reading
+ - https://www.reddit.com/r/webdev/comments/xgstjk/semantic_html_examples/ 
