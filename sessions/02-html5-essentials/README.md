@@ -14,4 +14,6 @@ Break (10 Minutes)
 Topic: Alt-Text, ARIA, and Accessibility Basics
 
 ## Further Reading
- - https://www.reddit.com/r/webdev/comments/xgstjk/semantic_html_examples/ 
+ - [Semantic HTML Examples](https://www.reddit.com/r/webdev/comments/xgstjk/semantic_html_examples/)
+ - [Accessibility for Ontarians with Disabilities Act](https://www.ontario.ca/laws/statute/05a11)
+ - [AODA Resources](https://humber.ca/tutorial/web-accessibility-compliance.html)
