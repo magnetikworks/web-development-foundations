@@ -9,6 +9,10 @@ body {
   line-height: 1.6;
 }
 
+ul {
+  margin-left: .75em;
+}
+
 /* Base (Mobile) */
 .header,
 .footer {
