@@ -1,4 +1,4 @@
-# Instructor Guide: Session 06 - Asynchronous JS
+# Session 06 - Asynchronous JS
 
 ## Hour 1: Review & Theory
 - **Assignment 2 Check:** Ensure students understand that their "Filter" logic is the exact same logic they will use for "Search" in real apps.
