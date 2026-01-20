@@ -1,4 +1,4 @@
-# Instructor Guide: Session 07 - Security & Deployment
+# Session 07 - Security & Deployment
 
 ## Hour 1: Security Mindset
 - **Key Concept:** "Never trust user input." 
