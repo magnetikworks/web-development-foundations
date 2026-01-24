@@ -1,4 +1,4 @@
-# Instructor Guide: Session 08 - The Portfolio Launchpad
+# Session 08 - The Portfolio Launchpad
 
 ## Hour 1: Design & Intent
 - **The Challenge:** Ask students, "If a recruiter has 10 seconds, what do they see?"
