@@ -35,3 +35,10 @@ Reviewer: ____________________ | Project Owner: ____________________
 | Criteria    | Excellent (5)                                      | Satisfactory (3)                                             | Needs Work (1)                                           |
 |-------------|-----------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------|
 | Data Safety | Uses .textContent for DOM injection. Live HTTPS URL.| Site is HTTPS but uses .innerHTML for user-controllable data. | Site is HTTP only or has visible console errors.         |
+
+## Reviewer Feedback
+One thing I loved: __________________________________________________________________
+
+One technical suggestion for improvement: ___________________________________________
+
+A "Stretch Goal" for the future: _____________________________________________________
