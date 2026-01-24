@@ -1,15 +1,18 @@
-# Session 08 - The Portfolio Launchpad
+# GitHub Issues & Project Management
 
-## Hour 1: Design & Intent
-- **The Challenge:** Ask students, "If a recruiter has 10 seconds, what do they see?"
-- **Activity:** 20 mins of sketching. No computers. This forces them to think about layout without asking AI for code first.
-- **Requirement:** Each student must have a unique "Dynamic Twist" (e.g., a weather widget based on their location via Geolocation API).
+## The "Sprint Start" (15 Minutes)
+- **Concept:** Explain that in a company, you don't just "code"; you solve "tickets."
+- **Activity:** Students must translate the Project Brief into specific GitHub Issues.
+- **Example Issues:**
+  - `feat: Setup 3-page HTML shell and shared CSS variables`
+  - `feat: Implement GitHub API fetch for projects gallery`
+  - `ui: Create responsive navigation with hamburger menu`
+  - `docs: Write technical README and deployment instructions`
 
-## Hour 2: The Core Architecture
-- **Multi-page Strategy:** Teach them how to keep the `nav` consistent across `index.html`, `projects.html`, and `contact.html`.
-- **The Data Bridge:** Help them set up the `fetch()` call to `https://api.github.com/users/USERNAME/repos`. This is the ultimate proof of their Session 06 knowledge.
+## The Workflow (During the Build)
+- **The "Atomic" Commit:** Encourage students to commit every time they finish one issue.
+- **The Magic Keyword:** Show them how to use `Fixes #1` in their commit message. This connects their code history to their project management.
 
-## Hour 3: Interactivity & Debugging
-- **Focus:** Logic over styling. "Make it work, then make it pretty."
-- **Check-in:** Ensure every student has successfully initialized a Git repo. 
-- **The Deployment:** Goal for today is to have a "Coming Soon" page live on Netlify/Vercel.
+## OQF Standard Check
+- **Autonomy:** Can the student break a large project into small, manageable tasks?
+- **Professional Capacity:** Are they using industry-standard tools (Issues/Labels) to track progress?
